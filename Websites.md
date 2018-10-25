@@ -12,3 +12,6 @@
 
 # 前端
 - [较全的前端](https://blog.csdn.net/learner198461/article/details/79466310)：很全的整理:heart_eyes:
+
+#OpenCV
+- [opencv形状识别学习总结](https://blog.csdn.net/bcbobo21cn/article/details/50904209)：opencv图像处理之形状识别总结
