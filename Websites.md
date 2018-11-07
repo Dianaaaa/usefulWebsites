@@ -14,6 +14,8 @@
 - [较全的前端](https://blog.csdn.net/learner198461/article/details/79466310)：很全的整理:heart_eyes:
 - [laravel artisan commands](https://www.cnblogs.com/mumutouv/p/4290978.html)：artisan命令总结
 - [bootstrap-datepicker documentation](https://bootstrap-datepicker.readthedocs.io/en/latest/methods.html#)：bootstrap datepicker文档
+- [jQuery-UI菜鸟教程](http://www.runoob.com/jqueryui/example-sortable.html)：很好玩
+
 
 # OpenCV
 
