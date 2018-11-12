@@ -27,3 +27,10 @@
 # 文档写作
 
 - [软件开发技术文档编写规范](https://blog.csdn.net/ciai2984/article/details/78928269):在项目开发过程中，应该按要求编写好十三种文档，文档编制要求具有针对性、精确性、清晰性、完整性、灵活性、可追溯性.
+
+
+
+# 可视化
+
+- [Highcharts在线实例](https://www.hcharts.cn/demo/highcharts) 
+- [HTML颜色代码](https://htmlcolorcodes.com/zh/) 
