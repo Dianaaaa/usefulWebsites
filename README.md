@@ -35,3 +35,9 @@
 - [Highcharts在线实例](https://www.hcharts.cn/demo/highcharts) 
 - [HTML颜色代码](https://htmlcolorcodes.com/zh/) 
 - [Netscope](http://ethereon.github.io/netscope/#/editor)：神经网络可视化
+
+
+
+# caffe
+
+[caffe的二分类微调，制作train.txt, val.txt](https://blog.csdn.net/banluqingchun/article/details/56845918)：较详细地补充了在jupyter notebook下的caffe模型训练细节
